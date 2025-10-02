@@ -1,10 +1,10 @@
 # Brain activity
-Data from the 2025 Women in Data Science (WiDS) Datathon, with the goal of predicting both an individual’s sex and attention deficit hyperactivity disorder (ADHD) diagnosis using adolescent functional brain imaging data and patient socio-demographic, emotions, and parenting information.
+Data is from the 2025 Women in Data Science (WiDS) Datathon and includes fMRI data, patient socio-demographic, emotions, and parenting information.
 
 ### Challenge
-“What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?”
+“What brain activity patterns are associated with attention deficit hyperactivity disorder (ADHD); are they different between males and females, and, if so, how?”
 
-Using fMRI data, the task is to build a model to predict both an individual’s sex and their ADHD diagnosis.
+The task is to build a model to predict both an individual’s sex and their ADHD diagnosis.
 The multi-outcome model should predict two separate target variables: 
 1) ADHD - 0: noADHD, 1: ADHD 
 2) gender - 0: male, 1: female
